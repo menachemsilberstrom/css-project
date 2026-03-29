@@ -24,6 +24,8 @@
     h1::first-letter{
         color: rgb(157, 73, 125);
     }
+    .a_tags{
+        display: inline;
     a{
         margin: 10px;
         font-size: large;
